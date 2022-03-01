@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prodigals resolution: or, My father was born before me. To a pleasant mew [sic] tune.</title>
+            <author>Jordan, Thomas, 1612?-1685?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03827</idno>
+            <idno type="STC">Wing J1055</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[60]</idno>
+            <idno type="EEBO-CITATION">99887267</idno>
+            <idno type="PROQUEST">ocm99887267</idno>
+            <idno type="VID">181977</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181977)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prodigals resolution: or, My father was born before me. To a pleasant mew [sic] tune.</title>
+                  <author>Jordan, Thomas, 1612?-1685?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F[rancis]. Coles, T[homas]. Vere, J[ohn]. Wright, and J[ohn]. Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674-1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I am a lusty lively lad ..."</note>
+                  <note>Date, place of publication and publishers' names from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181977:1"/>
+            <!-- PDF PAGE 16 -->
+            <head>The Prodigals Reſolution</head>
+            <head type="sub">OR, <hi>My Father was Born before me.</hi>
+            </head>
+            <opener>To a Pleaſant Mew Tune.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>I Am a luſty lively Lad,</l>
+               <l>new come to one and twenty,</l>
+               <l>My Father left me all he had,</l>
+               <l>both Gold and Silver plenty;</l>
+               <l>Now he's in Grave, I will be brave,</l>
+               <l>the Ladies ſhall adore me,</l>
+               <l>I'le court and kiſs, what hurt's in this,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>My Dad did ſo before me.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My Father was thirfty Sir,</l>
+               <l>till Soul and body ſund'ed</l>
+               <l>Some ſay he was a Vſurer,</l>
+               <l>for thirty in the hundred;</l>
+               <l>He ſcrapt and ſcratcht, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he pincht and patch'd</l>
+               <l>that in her helly bore me;</l>
+               <l>But i'le let flye, a good cauſe why,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>My Father was born before me.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My Daddy had his Duty done,</l>
+               <l>in getting ſo much treaſure,</l>
+               <l>I'le be as dutiful a Son,</l>
+               <l>for ſpending it in pleaſure:</l>
+               <l>Five pounds a quart, ſhall chear my heart,</l>
+               <l>ſuch Necture will reſtore me,</l>
+               <l>When Ladies call, I'le have at all,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>My Father was born before me.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My Grandam liv'd at <hi>Waſhington,</hi>
+               </l>
+               <l>my Grandſir delv'd in Ditches,</l>
+               <l>The Son of Old <hi>John Thraſhington,</hi>
+               </l>
+               <l>whoſe lanthorn leathern Breeches:</l>
+               <l>Cry'd, <hi>whither go ye, whither go ye,</hi>
+               </l>
+               <l>though men do now adore me</l>
+               <l>They ne'r did ſee my Pedigree,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Nor who was born before me.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>MY grandſir ſtriv'd, &amp; wiv'd, &amp; thriv'd,</l>
+               <l>till he did Riches gather,</l>
+               <l>And when he had much wealth atchiev'd,</l>
+               <l>O then he got my Father:</l>
+               <l>Of happy memmory cry I,</l>
+               <l>that e're his Mother bore him,</l>
+               <l>I had not been worth one penny,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Had I been born before him.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>To Free-ſchool, <hi>Cambridge,</hi> and <hi>Grays-Inn'</hi>
+               </l>
+               <l>my Grey-coat Grandſir put him,</l>
+               <l>Till to forget (he did begin)</l>
+               <l>the Leathern Breech that got him:</l>
+               <l>One dealt in Straw, 'tother in Law,</l>
+               <l>the one did Ditch and Delve it,</l>
+               <l>My Father ſtore of Sattin wore,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>My Grandſir Beggers Velvet.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>So get I wealth, what care I if</l>
+               <l>my Grandſir were a Sawyer,</l>
+               <l>My Father prov'd to be a chief</l>
+               <l>ſubtle and Learned Lawyer,</l>
+               <l>By <hi>Cooks Reports,</hi> and tricks-in-Court,</l>
+               <l>he did with Treaſure ſtore me,</l>
+               <l>That I may ſay, Heavens bleſs the day,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>My Father was born before me.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Some ſay, of late, a Merchant that</l>
+               <l>had gotten ſtore of Riches,</l>
+               <l>In's Drininkn-room hung up his Hat,</l>
+               <l>his ſtaff, and Leathern Breeches;</l>
+               <l>His ſtockings garter'd up with ſtraws,</l>
+               <l>e're Providence did ſtore him,</l>
+               <l>His Son was <hi>Sheriff of London,</hi> 'cauſe</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>His Father was born before him.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>So many blades that Rant in ſilk,</l>
+               <l>and put on Scarlet cloathing,</l>
+               <l>At firſt did ſpring from Butter-milk,</l>
+               <l>their Anceſtors worth nothing:</l>
+               <l>Old <hi>Adam,</hi> and our Grandam <hi>Eve,</hi>
+               </l>
+               <l>by digging and by ſpinning,</l>
+               <l>Did to all Kings and Princes give</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Their Radical beginning.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My Father to get me eſtate,</l>
+               <l>though ſelfiſh yet was ſlaviſh,</l>
+               <l>I'le ſpend it at another rate,</l>
+               <l>and be as lewdly laviſh:</l>
+               <l>From Mad-men, Fools, and knaves he did</l>
+               <l>litigiouſly receive it,</l>
+               <l>If ſo he did, Iuſtice forbid,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But I to ſuch ſhould leave it.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>At Play-houſes and Tennis-Court,</l>
+               <l>I'le prove a noble Fellow,</l>
+               <l>I'le Court my Doxies to the ſport,</l>
+               <l>of O! brave <hi>Punchinello:</hi>
+               </l>
+               <l>I'le Dice and Drab, and Drink and Stab,</l>
+               <l>no Hector ſhall out-roar me,</l>
+               <l>If <unclear>Teachers</unclear> tell we tales of Hell,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>My Father is gone before me.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Our aged Counſellors would have</l>
+               <l>us live by Rule and Reaſon,</l>
+               <l>'Cauſe they are marching to the Grave,</l>
+               <l>and pleaſures out of ſeaſon:</l>
+               <l>I'le learn to Dance the Mode of <hi>France,</hi>
+               </l>
+               <l>that Ladies may adore me,</l>
+               <l>My thrifty Dad no pleaſure had,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Though he was born before me.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I'le to the Court where <hi>Venus</hi> ſport,</l>
+               <l>doth Revel it in plenty,</l>
+               <l>I'le deal with all, both great and ſmall,</l>
+               <l>from twelve to five and twenty:</l>
+               <l>In Play-houſes i'le ſpend my days,</l>
+               <l>for they'r hung round with Plackets,</l>
+               <l>Ladies make room, behold I come,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Have at your KNOCKING Jackest<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> F. Coles, T. Vere, J. Wright, <hi>and</hi> J. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
